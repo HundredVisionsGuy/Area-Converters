@@ -14,7 +14,7 @@
 
 # TODO: write a function titled, kmToAcres() that...
 #       receives two numbers (width & height)
-#       calculates acres: area * 247.107285
+#       calculates acres: area * 247.10538
 #       returns a floating point number (acres)
 
 
