@@ -55,4 +55,6 @@ class KnownValues(unittest.TestCase):
         # Check for expected output
         self._baseAssertEqual(197688.0, result)
 
-
+# Run the tests
+if __name__ == '__main__':
+    unittest.main()
