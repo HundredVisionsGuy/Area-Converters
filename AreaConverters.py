@@ -24,13 +24,10 @@
 
 if __name__ == '__main__':
     # Test yardsToAcres()
-    acres = yardsToAcres(100, 300)
-    print "212 degrees Fahrenheit is " + str(celsius) + " degrees celsius."
-    # output should be 
+    ac = yardsToAcres(100, 300)
+    print "An area with a width of 100 yards and a length of 300 yards "
+    print "is " + str(ac) + " acres."
+    # output should be 7413300.0
 
-    # Do the same as above for the following units:
-    # 32F, 5F, 0C, 100C, -50C
-    # Expected units should be:
-    # 0.0C, -15.0C, 32.0F, 212.0F, -58.0C (respectively)
 
     
