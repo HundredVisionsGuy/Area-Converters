@@ -27,15 +27,15 @@ if __name__ == '__main__':
     ac = yardsToAcres(100, 300)
     print "An area with a width of 100 yards and a length of 300 yards "
     print "is " + str(ac) + " acres."
-    # output should be 7413300.0
+    # output should be 6.21
 
     # Other Sample Inputs w/Expected Outputs
-    # 15, 15 => 55599.75
-    # 40, 20 => 197688.0
+    # 15, 15 => 0.046575
+    # 40, 20 => 0.1656
 
     # Test kmToAcres
     # Sample Inputs => Expected Output
     # 10, 10 => 24710.538
     # 25, 25 => 154440.8625
-    # 5, 2 => 24710.538
+    # 25, 3 => 18532.9035
     
