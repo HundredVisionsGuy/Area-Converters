@@ -1,8 +1,9 @@
 # AreaConverters.py
 A Python 2 Math challenge using unit tests.
+
 **Goal:**
 ----------
-You will write 2 functions: yardsToAcres() and kmToAcres()
+You will write 2 functions: *yardsToAcres()* and *kmToAcres()*
 
 **Inputs:**
 ----------
