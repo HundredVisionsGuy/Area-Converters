@@ -3,13 +3,13 @@ A Python 2 Math challenge using unit tests.
 
 **Goal:**
 ----------
-You will write 2 functions: *yardsToAcres()* and *kmToAcres()*
+You will write 2 functions: `yardsToAcres()` and `kmToAcres()`
 
 **Inputs:**
 ----------
 * Each function receives two inputs (integers or floats): width & length
-* yardsToAcres() calculates area using the following formula: area * 0.000207
-* kmToAcres()  calculates area using the following formula: area * 247.10538
+* `yardsToAcres()` calculates area using the following formula: `area * 0.000207`
+* `kmToAcres()`  calculates area using the following formula: `area * 247.10538`
 
 **Outputs:**
 ------------
